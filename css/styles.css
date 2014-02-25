@@ -1,0 +1,13 @@
+.waf-facedetection img {
+	position: absolute;
+	top: 0, left: 0;
+/*	height: 100%;*/
+	z-index: 0;
+}
+.waf-facedetection .face{
+	position: absolute;
+	z-index: 1;
+	background: pink;
+	opacity: 0.3;
+/*	opacity: 0.3;*/
+}
