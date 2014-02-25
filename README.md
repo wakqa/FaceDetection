@@ -8,6 +8,7 @@ Once the page with the widget are opened on the browser .. type the url /img/fac
 ### To do
 
 Binding with a datasource
+
 Ability to use hosted image
 
 
