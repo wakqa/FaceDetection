@@ -5,12 +5,11 @@ Copy the folder img in the waPage .. put your image in that folder
 
 Once the page with the widget are opened on the browser .. type the url /img/face.jpg or another image .. click load image then click "click to detect faces"
 
-### Properties
-This widget has the following properties:
+### To do
 
-* __Prop1__: Explain the property 1
-* __Prop2__: Explain the property 2
-* __Prop3__: Explain the property 3
+Binding with a datasource
+Ability to use hosted image
+
 
 ### More Information
 For more information on how to install a custom widget, refer to [Installing a Custom Widget](http://doc.wakanda.org/WakandaStudio0/help/Title/en/page3869.html#1027761).
