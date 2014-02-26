@@ -5,8 +5,11 @@ Copy the folder img in the waPage .. put your image in that folder
 
 Once the page with the widget are opened on the browser .. type the url img/face.jpg or another image .. click load image then click "click to detect faces"
 
-### To do
+### Video Demo
 
+https://www.dropbox.com/s/ja16ze848eiuolr/demo-facedetection.swf
+
+### To do
 Binding with a datasource
 
 Ability to use hosted image
