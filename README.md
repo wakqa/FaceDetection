@@ -1,5 +1,5 @@
 ## Custom Widget for [Wakanda](http://wakanda.org)
-The __Custom__ widget allows you to recognize faces on a give image
+The __Custom__ widget allows you to recognize faces on a given image
 
 Copy the folder img in the waPage .. put your image in that folder
 
